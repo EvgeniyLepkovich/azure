@@ -7,3 +7,5 @@ spring:
     username: yauheniy-lepkovich-admin
     password: ylmysql123!@#
   jpa.hibernate.naming.physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
+
+hello-world-message: hello world!
